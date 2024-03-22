@@ -8,24 +8,24 @@ import {
 } from "@material-tailwind/react";
 import {
   RectangleStackIcon,
-  UserCircleIcon,
-  CommandLineIcon,
   XMarkIcon,
+  PaperAirplaneIcon,
+  BookmarkSquareIcon,
   Bars3Icon,
 } from "@heroicons/react/24/solid";
 
 const NAV_MENU = [
   {
-    name: "Page",
+    name: "Galeria",
     icon: RectangleStackIcon,
   },
   {
-    name: "Account",
-    icon: UserCircleIcon,
+    name: "Menu",
+    icon: BookmarkSquareIcon,
   },
   {
-    name: "Docs",
-    icon: CommandLineIcon,
+    name: "Contato",
+    icon: PaperAirplaneIcon,
     href: "https://www.material-tailwind.com/docs/react/installation",
   },
 ];
@@ -74,7 +74,7 @@ export function Navbar() {
           color="blue-gray"
           className="text-lg font-bold"
         >
-          Material Tailwind
+          Kimukeka
         </Typography>
         <ul className="ml-10 hidden items-center gap-8 lg:flex">
           {NAV_MENU.map(({ name, icon: Icon, href }) => (
@@ -85,9 +85,8 @@ export function Navbar() {
           ))}
         </ul>
         <div className="hidden items-center gap-2 lg:flex">
-          <Button variant="text">Sign In</Button>
           <a href="https://www.material-tailwind.com/blocks" target="_blank">
-            <Button color="gray">blocks</Button>
+            <Button color="gray">Reserva</Button>
           </a>
         </div>
         <IconButton

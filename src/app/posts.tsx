@@ -17,7 +17,7 @@ const POSTS = [
     img: `/image/blogs/moqueca.png`,
     tag: "Enterprise",
     title: "moqueca",
-    desc: "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "10 September 2022",
     author: {
       img: `/image/avatar1.jpg`,
@@ -25,10 +25,10 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/blog6.svg`,
+    img: `/image/blogs/moqueca.png`,
     tag: "Startups",
     title: "moqueca",
-    desc: "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "12 September 2022",
     author: {
       img: `/image/blogs/blog2.svg`,
@@ -36,10 +36,10 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/blog3.svg`,
+    img: `/image/blogs/moqueca.png`,
     tag: "Trending",
     title: "moqueca",
-    desc: "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "16 September 2022",
     author: {
       img: `/image/avatar2.jpg`,
@@ -47,10 +47,10 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/blog4.svg`,
+    img: `/image/blogs/moqueca.png`,
     tag: "Lifestyle",
     title: "moqueca",
-    desc: "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "18 September 2022",
     author: {
       img: `/image/avatar3.jpg`,
@@ -58,10 +58,10 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/blog5.svg`,
+    img: `/image/blogs/moqueca.png`,
     tag: "Enterprise",
     title: "moqueca",
-    desc: "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "10 September 2022",
     author: {
       img: `/image/avatar3.jpg`,
@@ -69,10 +69,10 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/blog6.svg`,
+    img: `/image/blogs/moqueca.png`,
     tag: "Startups",
     title: "moqueca",
-    desc: "Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens bed design but the back is too high for the beams and angle of the ceiling I also wanted to point out.",
+    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "12 September 2022",
     author: {
       img: `/image/avatar2.jpg`,

@@ -16,7 +16,7 @@ const POSTS = [
   {
     img: `/image/blogs/moqueca.png`,
     tag: "Enterprise",
-    title: "moqueca",
+    title: "Moqueca de Camarão",
     desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "10 September 2022",
     author: {
@@ -25,9 +25,9 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/moqueca.png`,
+    img: `/image/blogs/parmegiana.png`,
     tag: "Startups",
-    title: "moqueca",
+    title: "Camarão a parmegiana",
     desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "12 September 2022",
     author: {
@@ -36,9 +36,9 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/moqueca.png`,
+    img: `/image/blogs/moranga.png`,
     tag: "Trending",
-    title: "moqueca",
+    title: "Camarão na moranga",
     desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "16 September 2022",
     author: {
@@ -47,9 +47,9 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/moqueca.png`,
+    img: `/image/blogs/isca.png`,
     tag: "Lifestyle",
-    title: "moqueca",
+    title: "Isca de peixe",
     desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
     date: "18 September 2022",
     author: {
@@ -58,27 +58,16 @@ const POSTS = [
     },
   },
   {
-    img: `/image/blogs/moqueca.png`,
-    tag: "Enterprise",
-    title: "moqueca",
+    img: `/image/blogs/acaraje.png`,
+    tag: "Lifestyle",
+    title: "Acarajé",
     desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
-    date: "10 September 2022",
+    date: "18 September 2022",
     author: {
       img: `/image/avatar3.jpg`,
       name: "Ryan Samuel",
     },
-  },
-  {
-    img: `/image/blogs/moqueca.png`,
-    tag: "Startups",
-    title: "moqueca",
-    desc: "Das delícias que vêm da Bahia, a moqueca de peixe é mais famosa. Unindo sempre um bom peixe fresco com a cor e o sabor do dêndê e pimentões, ela é um dos principais pedido para a Páscoa e para outras ocasiões.",
-    date: "12 September 2022",
-    author: {
-      img: `/image/avatar2.jpg`,
-      name: "Nora Hazel",
-    },
-  },
+  }
 ];
 
 export function Posts() {

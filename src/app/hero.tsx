@@ -11,7 +11,7 @@ function Hero() {
       <Image
         width={1024}
         height={400}
-        src="/image/blog-background.png"
+        src="/image/herobg.png"
         alt="credit cards"
         className="h-96 w-full object-cover lg:h-[21rem]"
       />

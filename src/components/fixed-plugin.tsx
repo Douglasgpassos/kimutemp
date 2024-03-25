@@ -17,7 +17,6 @@ export function FixedPlugin() {
           alt="Material Tailwind"
           src="https://www.material-tailwind.com/favicon.png"
         />{" "}
-        Made With Material Tailwind
       </Button>
     </a>
   );
